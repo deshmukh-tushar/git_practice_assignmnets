@@ -12,9 +12,9 @@ function identifyPrime(num) {
     
      
     if (count==2){
-         console.log("Yes")
+         console.log("YES")
      }else{
-         console.log("No")
+         console.log("NO")
      }
          
     
